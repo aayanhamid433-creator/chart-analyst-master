@@ -1,0 +1,19 @@
+{
+  "name": "chart-analyst-master",
+  "version": "1.0.0",
+  "description": "Cloud-based AI trading chart analysis app",
+  "type": "module",
+  "scripts": {
+    "build": "echo 'Build complete'",
+    "dev": "vercel dev"
+  },
+  "keywords": ["trading", "chart", "analysis", "ai"],
+  "author": "Ay",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
